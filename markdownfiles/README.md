@@ -14,7 +14,7 @@
 - Created Github Workflow and ran the unit tests and build the image using the
 Dockerfile that I have created and published the image to the GitHub container
 registry (ghcr.io) for both linux/amd64 and 
-linux/arm64 architectures.
+linux/arm64 architectures. We can see the pushed package(sample-api) at the packages section of my repo.
 
 - To download the docker image from the github repository use the below command:
 
